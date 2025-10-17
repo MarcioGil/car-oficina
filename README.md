@@ -30,6 +30,7 @@ Gerenciador de Pacotes	pnpm
 Configuração de Projeto	jsconfig.json
 Hospedagem Recomendada	GitHub Pages / Netlify / Vercel
 📂 Estrutura de Pastas
+'''
 car-oficina/
 │
 ├── public/                     # Recursos estáticos (imagens, ícones, etc.)
@@ -50,6 +51,7 @@ car-oficina/
 ├── GUIA-PERSONALIZACAO.md      # Passo a passo para personalizar o site
 ├── ATUALIZACOES.md             # Registro de atualizações e melhorias
 └── README.md                   # Este arquivo
+'''
 
 ⚙️ Como Executar o Projeto
 1️⃣ Clonar o repositório
